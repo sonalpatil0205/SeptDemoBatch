@@ -13,6 +13,7 @@ public class ExtentReportDemo {
 	static ExtentTest logger;
 	
 	//This is second commit
+	//this is 3rd commit
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String fileName=new SimpleDateFormat("'SampleDemo_'yyyymmddHHmm'.html'").format(new Date());
